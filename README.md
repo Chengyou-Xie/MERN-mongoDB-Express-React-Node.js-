@@ -1,1 +1,2 @@
-# MERN (mongoDB/Express/React/Node.js)
+# MERN
+* Build a teacher-student login system and course registration system by MERN
